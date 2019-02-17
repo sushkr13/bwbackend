@@ -1,0 +1,6 @@
+[{"costCentreId":"150001000","costCentreDescription":"02AB - Trading","walkerBusinessUnit":"RBS",
+    "activeIndicator":"A", "tradingBankingIndicator":"T", "legalEntityLevel":"NATWEST MARKETS PLC"
+    ,"bookBalanceSheetEntity":"London","balanceSheetCity":"London","division":"CIB"},
+    {"costCentreId":"150001580","costCentreDescription":"02AB - Trading","walkerBusinessUnit":"RBS",
+        "activeIndicator":"A", "tradingBankingIndicator":"T", "legalEntityLevel":"NATWEST MARKETS PLC"
+        ,"bookBalanceSheetEntity":"London","balanceSheetCity":"London","division":"CIB"}]

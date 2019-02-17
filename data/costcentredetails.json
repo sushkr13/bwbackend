@@ -1,0 +1,6 @@
+[{"costCentreId":"150001000","costCentreDescription":"Description","walkerBusinessUnit":"RBS",
+    "hcsEntity":"Natwest markets", "usPeopleNumber":"27637", "currency":"Dollar", "legalEntityId":"RBSLINK"
+    ,"location":"London","tradingBankingIndicator":"Trading","syntheticCostCenter":"Y"},
+{"costCentreId":"150001070","costCentreDescription":"Description","walkerBusinessUnit":"RBS",
+    "hcsEntity":"Natwest markets", "usPeopleNumber":"27637", "currency":"Dollar", "legalEntityId":"RBSLINK"
+    ,"location":"London","tradingBankingIndicator":"Trading","syntheticCostCenter":"Y"}]
